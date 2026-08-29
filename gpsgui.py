@@ -12,7 +12,7 @@ import threading
 
 import PySimpleGUI as sg
 
-import gps_server as gs
+import server as gs
 
 
 def main():
