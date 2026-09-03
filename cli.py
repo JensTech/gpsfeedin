@@ -2,7 +2,6 @@
 
 Example Usage:
     python cli.py --lat 05N 01.234 --lon 30E 07.654
-    python cli.py --lat 05N 01.234 --lon 30E 07.654 --ctrl-port 5005
 """
 import argparse
 import json
